@@ -110,4 +110,5 @@ public class JC_lesson1 {
 		}
 	
 		//Test comment
+		//Added second comment
 }
